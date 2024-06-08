@@ -1,4 +1,14 @@
-## Hi there 👋
+## Olá seja bem vindo ❤️
+
+1- Estou estudando Alura 🤩
+
+2- Sou Aluna do Ensino Médio 👩‍🎓
+
+3- Sou Aluna do Professor Caio 💗
+
+4- Aprendendo como funciona 🤖
+
+
 
 <!--
 **natyvick/natyvick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
